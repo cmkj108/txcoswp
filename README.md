@@ -60,8 +60,8 @@ chmod 644 db_config.php
 本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情。
 
 ##📞 联系与支持
-官方网站
-🌐 https://www.mcve.top
+###官方网站
+###🌐 https://www.mcve.top
 
-社区交流
-💬 QQ群:318527519
+###社区交流
+###💬 QQ群:318527519
