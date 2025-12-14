@@ -57,7 +57,7 @@ chmod 644 db_config.php
 打开浏览器访问：http://你的域名/install.php
 
 ##📄 许可证
-本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情。
+本项目采用 Apache License 2.0 许可证 - 查看 LICENSE 文件了解详情。
 
 ## 联系与支持
 ### 官方网站
