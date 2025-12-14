@@ -5,7 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-7.0+-777BB4?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-5.6+-4479A1?style=flat-square)
 ![腾讯云COS](https://img.shields.io/badge/腾讯云-COS-1E6FFF?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?style=flat-square)
 
 ## ✨ 核心功能
 
